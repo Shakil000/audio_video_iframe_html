@@ -1,0 +1,30 @@
+.content{
+    background-color: lightgray;
+    text-align: center;
+    font-weight: bolder;
+}
+.audio{
+    width: 500px;
+    margin: auto;
+    display: flex;
+    padding: 10px;
+}
+.video{
+    width: 500px;
+    margin: auto;
+    display: flex;
+    padding: 10px;
+}
+.btn-explore{
+    width: 500px;
+    padding: 15px;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+    border-radius: 25px;
+    border: none;
+}
+.btn-explore:hover{
+    background-color: yellow;
+    color: red;
+}
